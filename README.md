@@ -2,9 +2,8 @@
 A passionate web developer from Indonesia, currently i stay on Balikpapan, East Kalimantan
 
 - 🔭 I’m currently **working from home**
-- 🌱 I’m currently learning **vue, laravel, react**
+- 🌱 I’m currently learning **vue, laravel, flutter**
 - 📫 How to reach me **misbahularifin14@gmail.com**
-- ⚡ Fun fact: **i'm like a table tennis and online games**
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
